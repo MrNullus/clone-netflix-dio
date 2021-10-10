@@ -1,2 +1,2 @@
-# Clone da Netflix - HTML5 e CSS3
+# Clone da Netflix - HTML5 + CSS3 (FlexBox) + Responsive
 ## Clone feito no projeto do bootcamp da DIO
